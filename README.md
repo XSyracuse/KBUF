@@ -1,4 +1,5 @@
 # KBUF
+X-Plane KBUF
 
 Create a folder in Custom Scenery such as "KBUF" move files and subfolders into that.
 
